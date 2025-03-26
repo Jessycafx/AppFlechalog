@@ -1,2 +1,2 @@
 # Flechalog Online
-Sistema empresarial com Supabase, IA, login seguro e dashboard.
+Sistema com Supabase e IA ativada.
