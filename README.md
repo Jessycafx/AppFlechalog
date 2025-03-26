@@ -1,3 +1,2 @@
-# Flechalog App
-
-Sistema logístico com Next.js.
+# Flechalog Online
+Sistema empresarial com Supabase, IA, login seguro e dashboard.
